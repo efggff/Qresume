@@ -5,6 +5,7 @@ Vue全家桶：Vue + VueRouter + ElementUI
 
 安装依赖：
 1.网络请求npm i vue-router@3
+
 2.Elementvue add element
 
 VueCli工具版本：
